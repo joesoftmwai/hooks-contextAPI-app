@@ -18,7 +18,7 @@ const App = () => {
     <GithubState>
       <AlertState>
         <div className="App">
-          <Navbar title="Github finder" />
+          <Navbar title="Github users locator" />
           <div className="container">
             <Alert />
 
